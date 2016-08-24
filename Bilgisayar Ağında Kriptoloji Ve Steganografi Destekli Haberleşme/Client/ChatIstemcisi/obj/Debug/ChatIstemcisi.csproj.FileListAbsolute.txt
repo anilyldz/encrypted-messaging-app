@@ -1,0 +1,135 @@
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.dll
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.pdb
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\Caeruleo\Desktop\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+C:\Users\Caeruleo\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Caeruleo\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.dll
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Berker\Desktop\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Berker\Desktop\Yeni klasör\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Berker\Desktop\Yeni klasör\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.dll
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Berker\Documents\Visual Studio 2013\Projects\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Mythrandir\Desktop\Ders\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Mythrandir\Desktop\Ders\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.ResolveComReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\System.Core.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR ASLANDI\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmStega.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.ResolveComReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmStega.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\System.Core.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA YEDEK\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.ResolveComReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\bin\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmStega.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\Ağ Haberleşmesi\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\Interop.MSXML2.dll
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.ResolveComReference.cache
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+D:\Eğitim\3.Sınıf\1.Dönem\Bilgi Sistemleri Ve Güvenliği\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\Interop.MSXML2.dll
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.ResolveComReference.cache
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\bin\Debug\Interop.MSXML2.dll
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmStega.resources
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\Selçuk\Documents\Visual Studio 2013\Projects\Bilgisayar Ağında Kriptoloji SINIFLAR STEGA\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\Interop.MSXML2.dll
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.ResolveComReference.cache
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\bin\Debug\KBSLIB.pdb
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\bin\Debug\Interop.MSXML2.dll
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csprojResolveAssemblyReference.cache
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmStega.resources
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+H:\Bilgisayar Ağında Kriptoloji Ve Steganografi Destekli Haberleşme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.Cache
